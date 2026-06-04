@@ -20,6 +20,6 @@ Python-инструмент для анализа логов SSH (`/var/log/auth
 Клонируйте репозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/yourusername/ssh-log-analyzer.git
+git clone https://github.com/tipok-ml/ssh-log-analyzer.git
 cd ssh-log-analyzer
 pip install -r requirements.txt
