@@ -1,6 +1,9 @@
 __pycache__/
 *.py[cod]
-failed_attempts.csv
-ssh_report.html
-*.mmdb
-.DS_Store
+.env
+*.log
+*.csv
+*.html
+**/.ipynb_checkpoints/
+.vscode/
+.idea/
