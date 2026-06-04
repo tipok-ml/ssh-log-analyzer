@@ -1,5 +1,6 @@
 # SSH Log Analyzer 🔐
-
+[Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Python-инструмент для анализа логов SSH (`/var/log/auth.log`), автоматического обнаружения атак (брутфорс, сканирование пользователей), построения отчётов с графиками и отправки уведомлений в Telegram. Опционально подключается к DeepSeek для интерпретации атак на естественном языке.
 
 ## Возможности
