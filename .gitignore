@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+failed_attempts.csv
+ssh_report.html
+*.mmdb
+.DS_Store
