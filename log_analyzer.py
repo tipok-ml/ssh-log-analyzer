@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+Пример использования:
+    sudo python log_analyzer.py /var/log/auth.log
+    sudo python log_analyzer.py /var/log/auth.log --html my_report.html --csv my_data.csv
+"""
 SSH Brute-force & Anomaly Detector for auth.log
 Generates HTML report, CSV export, Telegram alert and optional DeepSeek interpretation.
 """
